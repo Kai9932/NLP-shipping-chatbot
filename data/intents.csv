@@ -1,0 +1,18 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+bye,farewell
+goodbye,farewell
+see you,farewell
+thank you,thanks
+thanks,thanks
+thank you very much,thanks
+how are you?,ask_health
+how are you doing?,ask_health
+what is your name?,ask_name
+who are you?,ask_name
+help,request_help
+can you help me?,request_help
